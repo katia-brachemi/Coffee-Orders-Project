@@ -27,7 +27,7 @@ Dataset provided by Mo Chen via GitHub.
 
 
 ## 🛠️ Tools
-**Excel
+** Excel
 
 ---
 ## Credits
