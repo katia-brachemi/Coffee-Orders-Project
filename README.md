@@ -15,7 +15,8 @@ Dataset provided by Mo Chen via GitHub.
 
 ## 📊 Key Skills Practiced
 
-- Applying advanced Excel formulas (SUMIFS, cumulative totals, YTD, MAT)
+- Applying logical formulas (IF, IFS) for conditional analysis
+- Applying advanced Excel formulas (cumulative totals, YTD, MAT)
 - Applying advanced formulas such as XLOOKUP and INDEX-MATCH
 - Structuring and cleaning data for analysis
 - Converting and formatting data for consistency and analysis
